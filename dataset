@@ -1,0 +1,2 @@
+the dataset ive taken is from kaggle and the url is given below, as it contains two subdirectories like, covid, normal, lung opacity and pneumonia so that the dataset is sent into 80 20 split
+  https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database 
